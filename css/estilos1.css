@@ -1,0 +1,81 @@
+body {
+    margin: 3.5cm;
+    background-image: linear-gradient(rgb(108, 126, 108), lightblue, lightyellow);
+}
+h1 {
+    text-align: left;
+    font-size: 50px;
+    color: rgb(26, 44, 53);
+    text-shadow:5px 2px 4px rgb(232, 255, 232);
+    font-family:'Courier New', Courier, monospace;
+    width: 50%;
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-decoration: underline;
+    color: darkgreen;
+}
+img {
+    width: 49%;
+    height: 400px;
+}
+table{
+    width: 50%;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.color1{
+    background-color:rgb(103, 121, 103) ;
+    font-weight: bold;
+}
+.color2{
+    background-color: rgb(230, 230, 230);
+}
+p{
+    text-indent: 50px;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer {
+    background-color: :rgba(134, 151, 133, 0.575);
+    margin-left: -3.5cm;
+    margin-right: -3.5cm;
+    padding: -10px;
+}
+.boton {
+    display: inline-block;
+    background-color: rgb(198, 210, 243);
+    border: 2px;
+    width: calc((100%/3) - 8px);
+    text-align: center;
+    border-radius: 15px;
+    padding: 15px 0px;
+    border-style: outset;
+    
+}
+a:hover {
+    color: rgb(255, 199, 159);
+    background-color:rgb(165, 165, 165);
+    font-weight: bold;
+}
+#intro{
+    font-style: italic;
+}
+header{
+    align-content: center;
+}
+nav{
+    cursor: crosshair;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.foto1{
+    width: 50%;
+    align-items: right;
+}
+
